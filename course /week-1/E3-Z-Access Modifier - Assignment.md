@@ -2,7 +2,9 @@ Here's a comprehensive set of assignments and interview questions for Java acces
 
 ###  1. Basic Access Modifier Assignments
 
-1. **Package-Level Access**```java
+1. **Package-Level Access**
+   
+```java
 // Assignment 1: Package Access
 package com.example.mypackage;
 
@@ -22,7 +24,9 @@ class Dog extends Animal {
 ```
 
 
-2. **Protected Access**```java
+2. **Protected Access**
+  
+```java
 // Assignment 2: Protected Access
 package com.example.mypackage;
 
@@ -47,7 +51,9 @@ public class Car extends Vehicle {
 
 ###  2. Advanced Access Modifier Assignments
 
-1. **Encapsulation Practice**```java
+1. **Encapsulation Practice**
+
+```java
 // Assignment 3: Encapsulation
 public class BankAccount {
     private double balance;
@@ -68,7 +74,9 @@ public class BankAccount {
 ```
 
 
-2. **Interface Implementation**```java
+2. **Interface Implementation**
+
+```java
 // Assignment 4: Interface Access
 public interface Printable {
     void print();         // public by default
