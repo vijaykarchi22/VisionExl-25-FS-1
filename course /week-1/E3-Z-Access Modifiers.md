@@ -56,7 +56,7 @@ public class Animal {
 | --- | --- | --- | --- | --- |
 | public | ✓ | ✓ | ✓ | ✓ |
 | protected | ✓ | ✓ | ✓ | ✗ |
-| default | ✓ | ✓ | ✗ | ✗ |
+| default | ✓ | ✓ | ✓ | ✗ |
 | private | ✓ | ✗ | ✗ | ✗ |
 
 ###  5. Real-World Example
