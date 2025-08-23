@@ -1,0 +1,9 @@
+#spring.application.name=lms
+
+spring:
+  application:
+    name: lms
+  datasource:
+    url: jdbc:postgresql://localhost:5432/lms #jdbc:postgresql://{host}:{port}/{database_name}
+    username: postgres
+    password: root
